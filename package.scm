@@ -1,6 +1,6 @@
 (package
   (name csv)
-  (version 0.1)
+  (version "0.1.0")
   (license "BSD")
   (authors "Peter Lane")
   (maintainers "Arthur Maciel <arthurmaciel at gmail dot com")
